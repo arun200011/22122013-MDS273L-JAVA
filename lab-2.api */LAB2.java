@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Driven {
+public class LAB2 {
     static String[] names = new String[1024];
     static int count = 0;
 
