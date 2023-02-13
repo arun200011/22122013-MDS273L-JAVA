@@ -1,19 +1,23 @@
 import java.util.Scanner;
 
 public class LAB3 {
+  //creating array
   static final int max_students = 1024;
   static String[] studentNames = new String[max_students];
   static String[][] studentDetails = new String[max_students][5];
   
   public static void main(String[] args) {
+    //taking input
     int choice, numOfStudents = 0;
     Scanner input = new Scanner(System.in);
     
     while (true) {
+      //asking choices from user
       System.out.println("1. Add Student");
       System.out.println("2. View Student Details");
       System.out.println("3. Exit");
       System.out.print("Enter your choice: ");
+      //using switch cases
       
       choice = input.nextInt();
       switch (choice) {
@@ -30,7 +34,7 @@ public class LAB3 {
       }
     }
   }
-  
+  //creating class for adding student
   public static void addStudent(int numOfStudents) {
     Scanner scan = new Scanner(System.in);
     
@@ -47,6 +51,8 @@ public class LAB3 {
     
     System.out.println("Student details added successfully!");
   }
+  
+  //creating class for viewing student details
   
   public static void viewStudentDetails() {
     Scanner scan = new Scanner(System.in);
