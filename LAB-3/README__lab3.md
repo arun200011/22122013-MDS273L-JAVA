@@ -1,5 +1,5 @@
 NAME:ARUN REGHUNATHAN 
-EMAIL:arun.reghunathan@ 
+EMAIL:arun.reghunathan@msds.christuniversity.in
 REG NO:22122013
 
 Todays Lab Create a java program, that stores the details of a student (Name, Register Number, Email, Class, Department). You can use a two-dimensional 
