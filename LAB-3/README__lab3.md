@@ -23,39 +23,39 @@ plan what should be the returning values and how to implement them.
 **************************************************************************************************************************************
 #OUTPUT
 
-1. Add Student
-2. View Student Details
-3. Exit
-Enter your choice: 1
-Enter student name: arun
-Enter student register number: 22122013
-Enter student email: arun@gmail.com
-Enter student class: 2msc
-Enter student department: ds
-Student details added successfully!
-1. Add Student
-2. View Student Details
-3. Exit
-Enter your choice: 1
-Enter student name: rahul
-Enter student register number: 22122323
-Enter student email: aads@gmail.sd
-Enter student class: 1ms
-Enter student department: ds
-Student details added successfully!
-1. Add Student
-2. View Student Details
-3. Exit
-Enter your choice: 2
-Enter student name to view details: rahul
-Name: rahul
-Register Number: 22122323
-Email: aads@gmail.sd
-Class: 1ms
-Department: ds
-1. Add Student
-2. View Student Details
-3. Exit
-Enter your choice: 3
-
-***********************************************************************************************************************************
+<br> 1. Add Student
+<br> 2. View Student Details
+<br> 3. Exit
+<br> Enter your choice: 1
+<br> Enter student name: arun
+<br> Enter student register number: 22122013
+<br> Enter student email: arun@gmail.com
+<br> Enter student class: 2msc
+<br> Enter student department: ds
+<br> Student details added successfully!
+<br> 1. Add Student
+<br> 2. View Student Details
+<br> 3. Exit
+<br> Enter your choice: 1
+<br> Enter student name: rahul
+<br> Enter student register number: 22122323
+<br> Enter student email: aads@gmail.sd
+<br> Enter student class: 1ms
+<br> Enter student department: ds
+<br> Student details added successfully!
+<br> 1. Add Student
+<br> 2. View Student Details
+<br> 3. Exit
+<br> Enter your choice: 2
+<br> Enter student name to view details: rahul
+<br> Name: rahul
+<br> Register Number: 22122323
+<br> Email: aads@gmail.sd
+<br> Class: 1ms
+<br> Department: ds
+<br> 1. Add Student
+<br> 2. View Student Details
+<br> 3. Exit
+<br> Enter your choice: 3
+<br> 
+<br> ***********************************************************************************************************************************
