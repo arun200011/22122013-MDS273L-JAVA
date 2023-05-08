@@ -33,6 +33,7 @@
 <br> Enter an option: 1
 <br> Enter a name: arun
 <br> Name added successfully.
+
 <br> 1. Enter a name
 <br> 2. Search for a name
 <br> 3. Remove a name
@@ -40,6 +41,7 @@
 <br> Enter an option: 2
 <br> Enter a name to search: arun
 <br> Name found at index 0
+
 <br> 1. Enter a name
 <br> 2. Search for a name
 <br> 3. Remove a name
@@ -47,10 +49,10 @@
 <br> Enter an option: 3
 <br> Enter a name to remove: arun
 <br> Name removed successfully.
+
 <br> 1. Enter a name
 <br> 2. Search for a name
 <br> 3. Remove a name
 <br> 4. Exit
-<br> Enter an option: 4
-<br> ************************************************************************************************************************************
-<br> 
+<br> Enter an option: 4 ************************************************************************************************************************************
+
