@@ -134,23 +134,26 @@ Draw a flow chart for your program and write the pseudocode before starting the 
 #OUTPUT
 
 <br> Enter your choice
-<br> *********MENU***************8
+<br> *********MENU***************
 <br> ****1. encode text******
 <br> ****2. deocde texte*****
 <br> ****3.exit**************
 <br> 1
 <br> Enter String input : 
 <br> hello
-<br> EBIILEnter your choice
-<br> *********MENU***************8
+<br> EBIIL
+
+<br>Enter your choice
+<br> *********MENU***************
 <br> ****1. encode text******
 <br> ****2. deocde texte*****
 <br> ****3.exit**************
 <br> 2
 <br> Enter String input :
 <br> ebiil
-<br> HELLOEnter your choice
-<br> *********MENU***************8
+<br> HELLO
+<br>Enter your choice
+<br> *********MENU***************
 <br> ****1. encode text******
 <br> ****2. deocde texte*****
 <br> ****3.exit**************
