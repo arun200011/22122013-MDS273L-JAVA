@@ -129,5 +129,34 @@ Your program should have two functions, one for encryption and another for decry
 
 Draw a flow chart for your program and write the pseudocode before starting the coding in your observation notebook.
 
+***************************************************************************************************************************************
+
+#OUTPUT
+
+Enter your choice
+*********MENU***************8
+****1. encode text******
+****2. deocde texte*****
+****3.exit**************
+1
+Enter String input : 
+hello
+EBIILEnter your choice
+*********MENU***************8
+****1. encode text******
+****2. deocde texte*****
+****3.exit**************
+2
+Enter String input :
+ebiil
+HELLOEnter your choice
+*********MENU***************8
+****1. encode text******
+****2. deocde texte*****
+****3.exit**************
+3
+
+*****************************************************************************************************************************************
+
 
 
