@@ -1,6 +1,6 @@
-NAME:ARUN REGHUNATHAN 
-EMAIL:arun.reghunathan@msds.christuniversity.in
-REG NO:22122013
+#NAME:ARUN REGHUNATHAN 
+#EMAIL:arun.reghunathan@msds.christuniversity.in
+3REG NO:22122013
 
 Todays Lab Create a java program, that stores the details of a student (Name, Register Number, Email, Class, Department). You can use a two-dimensional 
 array to store the details. HINT: String arr[] = {{"Alwin","1847207","alwin@christ.in","MCA","Computer Science"},
@@ -33,6 +33,7 @@ plan what should be the returning values and how to implement them.
 <br> Enter student class: 2msc
 <br> Enter student department: ds
 <br> Student details added successfully!
+
 <br> 1. Add Student
 <br> 2. View Student Details
 <br> 3. Exit
@@ -43,6 +44,7 @@ plan what should be the returning values and how to implement them.
 <br> Enter student class: 1ms
 <br> Enter student department: ds
 <br> Student details added successfully!
+
 <br> 1. Add Student
 <br> 2. View Student Details
 <br> 3. Exit
@@ -53,6 +55,7 @@ plan what should be the returning values and how to implement them.
 <br> Email: aads@gmail.sd
 <br> Class: 1ms
 <br> Department: ds
+
 <br> 1. Add Student
 <br> 2. View Student Details
 <br> 3. Exit
