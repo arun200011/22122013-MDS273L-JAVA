@@ -26,7 +26,9 @@ To withdraw money
 To print the transactions
 To print account summary
 
-OUTPUT
+***************************************************************************************************************************************
+
+#OUTPUT
 
 Menu:
 1. Initialize customer
@@ -88,6 +90,8 @@ Account summary:
 Account number: 234
 Account holder name: arun
 Account balance: 3330.0
+
+****************************************************************************************************************************************8
 
 Menu:
 1. Initialize customer
