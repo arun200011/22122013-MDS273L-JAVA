@@ -29,3 +29,91 @@ Displays the details of all students.
 Save the details of each student in a file, with the student name as filename.
 
 Note: Make use of functions to implement the menu options.
+******************************************************************************************************************************************
+#OUTPUT
+
+**********MENU************
+1. Add a student
+2. Search for a student
+3. Update the details of a student
+4. Display all students
+5. Save the student details to a file
+6. Exit
+Enter your choice: 1
+Enter the details of the student:
+Reg No.: 22122013
+Name: arun
+Email: arun@email
+Phone: 354673
+Class: 2mscds
+Department: ds
+Student added successfully
+**********MENU************
+1. Add a student
+2. Search for a student
+3. Update the details of a student
+4. Display all students
+5. Save the student details to a file
+6. Exit
+Enter your choice: 2
+Enter the search term (either name or register number):
+arun
+Reg No.: 22122013
+Name: arun
+Email: arun@email
+Phone: 354673
+Class: 2mscds
+Department: ds
+**********MENU************
+1. Add a student
+2. Search for a student
+3. Update the details of a student
+4. Display all students
+5. Save the student details to a file
+6. Exit
+Enter your choice: 3
+Enter the search term (Either name or register number):
+arun
+Enter the new details:
+Name: rahul
+Email: rahul@g
+Phone: 6373738
+Class: 3ms
+Department: ds
+Student details updated successfully
+**********MENU************
+1. Add a student
+2. Search for a student
+3. Update the details of a student
+4. Display all students
+5. Save the student details to a file
+6. Exit
+Enter your choice: 4
+Reg No.: 22122013
+Name: rahul
+Email: rahul@g
+Phone: 6373738
+Class: 3ms
+Department: ds
+**********MENU************
+1. Add a student
+2. Search for a student
+3. Update the details of a student
+4. Display all students
+5. Save the student details to a file
+6. Exit
+Enter your choice: 5
+Enter the name of the student to save the details to a file:
+rahul
+Student details saved to file successfully
+**********MENU************
+1. Add a student
+2. Search for a student
+3. Update the details of a student
+4. Display all students
+5. Save the student details to a file
+6. Exit
+Enter your choice: 6
+Exiting...
+
+*********************************************************************************************************************************
