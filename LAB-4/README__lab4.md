@@ -31,74 +31,75 @@ To print account summary
 #OUTPUT
 
 Menu:
-1. Initialize customer
-2. Deposit money
-3. Withdraw money
-4. Print transactions
-5. Print account summary
-0. Exit
-Enter your choice: 1
-Enter account number: 234
-Enter account holder name: arun
-Enter initial account balance: 2330
-Customer created successfully.
-
-Menu:
-1. Initialize customer
-2. Deposit money
-3. Withdraw money
-4. Print transactions
-5. Print account summary
-0. Exit
-Enter your choice: 2
-Enter amount to deposit: 3000
-Deposit successful, Your New balance is 5330.0
-
-Menu:
-1. Initialize customer
-2. Deposit money
-3. Withdraw money
-4. Print transactions
-5. Print account summary
-0. Exit
-Enter your choice: 3
-Enter amount to withdraw: 2000
-Withdrawal successful, Your New balance is 3330.0
-
-Menu:
-1. Initialize customer
-2. Deposit money
-3. Withdraw money
-4. Print transactions
-5. Print account summary
-0. Exit
-Enter your choice: 4
-Transaction history:
-Initial balance: 2330.0
-Deposit: 3000.0
-Withdrawal: 2000.0
-
-Menu:
-1. Initialize customer
-2. Deposit money
-3. Withdraw money
-4. Print transactions
-5. Print account summary
-0. Exit
-Enter your choice: 5
-Account summary:
-Account number: 234
-Account holder name: arun
-Account balance: 3330.0
-
-Menu:
-1. Initialize customer
-2. Deposit money
-3. Withdraw money
-4. Print transactions
-5. Print account summary
-0. Exit
-Enter your choice: 0
-Thankyou vivit again!!!
-
-**********************************************************************************************************************************
+<br> 1. Initialize customer
+<br> 2. Deposit money
+<br> 3. Withdraw money
+<br> 4. Print transactions
+<br> 5. Print account summary
+<br> 0. Exit
+<br> Enter your choice: 1
+<br> Enter account number: 234
+<br> Enter account holder name: arun
+<br> Enter initial account balance: 2330
+<br> Customer created successfully.
+<br> 
+<br> Menu:
+<br> 1. Initialize customer
+<br> 2. Deposit money
+<br> 3. Withdraw money
+<br> 4. Print transactions
+<br> 5. Print account summary
+<br> 0. Exit
+<br> Enter your choice: 2
+<br> Enter amount to deposit: 3000
+<br> Deposit successful, Your New balance is 5330.0
+<br> 
+<br> Menu:
+<br> 1. Initialize customer
+<br> 2. Deposit money
+<br> 3. Withdraw money
+<br> 4. Print transactions
+<br> 5. Print account summary
+<br> 0. Exit
+<br> Enter your choice: 3
+<br> Enter amount to withdraw: 2000
+<br> Withdrawal successful, Your New balance is 3330.0
+<br> 
+<br> Menu:
+<br> 1. Initialize customer
+<br> 2. Deposit money
+<br> 3. Withdraw money
+<br> 4. Print transactions
+<br> 5. Print account summary
+<br> 0. Exit
+<br> Enter your choice: 4
+<br> Transaction history:
+<br> Initial balance: 2330.0
+<br> Deposit: 3000.0
+<br> Withdrawal: 2000.0
+<br> 
+<br> Menu:
+<br> 1. Initialize customer
+<br> 2. Deposit money
+<br> 3. Withdraw money
+<br> 4. Print transactions
+<br> 5. Print account summary
+<br> 0. Exit
+<br> Enter your choice: 5
+<br> Account summary:
+<br> Account number: 234
+<br> Account holder name: arun
+<br> Account balance: 3330.0
+<br> 
+<br> Menu:
+<br> 1. Initialize customer
+<br> 2. Deposit money
+<br> 3. Withdraw money
+<br> 4. Print transactions
+<br> 5. Print account summary
+<br> 0. Exit
+<br> Enter your choice: 0
+<br> Thankyou vivit again!!!
+<br> 
+<br> **********************************************************************************************************************************
+<br> 
