@@ -32,88 +32,88 @@ Note: Make use of functions to implement the menu options.
 ******************************************************************************************************************************************
 #OUTPUT
 
-**********MENU************
-1. Add a student
-2. Search for a student
-3. Update the details of a student
-4. Display all students
-5. Save the student details to a file
-6. Exit
-Enter your choice: 1
-Enter the details of the student:
-Reg No.: 22122013
-Name: arun
-Email: arun@email
-Phone: 354673
-Class: 2mscds
-Department: ds
-Student added successfully
-**********MENU************
-1. Add a student
-2. Search for a student
-3. Update the details of a student
-4. Display all students
-5. Save the student details to a file
-6. Exit
-Enter your choice: 2
-Enter the search term (either name or register number):
-arun
-Reg No.: 22122013
-Name: arun
-Email: arun@email
-Phone: 354673
-Class: 2mscds
-Department: ds
-**********MENU************
-1. Add a student
-2. Search for a student
-3. Update the details of a student
-4. Display all students
-5. Save the student details to a file
-6. Exit
-Enter your choice: 3
-Enter the search term (Either name or register number):
-arun
-Enter the new details:
-Name: rahul
-Email: rahul@g
-Phone: 6373738
-Class: 3ms
-Department: ds
-Student details updated successfully
-**********MENU************
-1. Add a student
-2. Search for a student
-3. Update the details of a student
-4. Display all students
-5. Save the student details to a file
-6. Exit
-Enter your choice: 4
-Reg No.: 22122013
-Name: rahul
-Email: rahul@g
-Phone: 6373738
-Class: 3ms
-Department: ds
-**********MENU************
-1. Add a student
-2. Search for a student
-3. Update the details of a student
-4. Display all students
-5. Save the student details to a file
-6. Exit
-Enter your choice: 5
-Enter the name of the student to save the details to a file:
-rahul
-Student details saved to file successfully
-**********MENU************
-1. Add a student
-2. Search for a student
-3. Update the details of a student
-4. Display all students
-5. Save the student details to a file
-6. Exit
-Enter your choice: 6
-Exiting...
+<br> **********MENU************
+<br> 1. Add a student
+<br> 2. Search for a student
+<br> 3. Update the details of a student
+<br> 4. Display all students
+<br> 5. Save the student details to a file
+<br> 6. Exit
+<br> Enter your choice: 1
+<br> Enter the details of the student:
+<br> Reg No.: 22122013
+<br> Name: arun
+<br> Email: arun@email
+<br> Phone: 354673
+<br> Class: 2mscds
+<br> Department: ds
+<br> Student added successfully
+<br> **********MENU************
+<br> 1. Add a student
+<br> 2. Search for a student
+<br> 3. Update the details of a student
+<br> 4. Display all students
+<br> 5. Save the student details to a file
+<br> 6. Exit
+<br> Enter your choice: 2
+<br> Enter the search term (either name or register number):
+<br> arun
+<br> Reg No.: 22122013
+<br> Name: arun
+<br> Email: arun@email
+<br> Phone: 354673
+<br> Class: 2mscds
+<br> Department: ds
+<br> **********MENU************
+<br> 1. Add a student
+<br> 2. Search for a student
+<br> 3. Update the details of a student
+<br> 4. Display all students
+<br> 5. Save the student details to a file
+<br> 6. Exit
+<br> Enter your choice: 3
+<br> Enter the search term (Either name or register number):
+<br> arun
+<br> Enter the new details:
+<br> Name: rahul
+<br> Email: rahul@g
+<br> Phone: 6373738
+<br> Class: 3ms
+<br> Department: ds
+<br> Student details updated successfully
+<br> **********MENU************
+<br> 1. Add a student
+<br> 2. Search for a student
+<br> 3. Update the details of a student
+<br> 4. Display all students
+<br> 5. Save the student details to a file
+<br> 6. Exit
+<br> Enter your choice: 4
+<br> Reg No.: 22122013
+<br> Name: rahul
+<br> Email: rahul@g
+<br> Phone: 6373738
+<br> Class: 3ms
+<br> Department: ds
+<br> **********MENU************
+<br> 1. Add a student
+<br> 2. Search for a student
+<br> 3. Update the details of a student
+<br> 4. Display all students
+<br> 5. Save the student details to a file
+<br> 6. Exit
+<br> Enter your choice: 5
+<br> Enter the name of the student to save the details to a file:
+<br> rahul
+<br> Student details saved to file successfully
+<br> **********MENU************
+<br> 1. Add a student
+<br> 2. Search for a student
+<br> 3. Update the details of a student
+<br> 4. Display all students
+<br> 5. Save the student details to a file
+<br> 6. Exit
+<br> Enter your choice: 6
+<br> Exiting...
 
 *********************************************************************************************************************************
