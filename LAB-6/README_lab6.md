@@ -48,6 +48,7 @@ Note: Make use of functions to implement the menu options.
 <br> Class: 2mscds
 <br> Department: ds
 <br> Student added successfully
+
 <br> **********MENU************
 <br> 1. Add a student
 <br> 2. Search for a student
@@ -64,6 +65,7 @@ Note: Make use of functions to implement the menu options.
 <br> Phone: 354673
 <br> Class: 2mscds
 <br> Department: ds
+
 <br> **********MENU************
 <br> 1. Add a student
 <br> 2. Search for a student
@@ -81,6 +83,7 @@ Note: Make use of functions to implement the menu options.
 <br> Class: 3ms
 <br> Department: ds
 <br> Student details updated successfully
+
 <br> **********MENU************
 <br> 1. Add a student
 <br> 2. Search for a student
@@ -95,6 +98,7 @@ Note: Make use of functions to implement the menu options.
 <br> Phone: 6373738
 <br> Class: 3ms
 <br> Department: ds
+
 <br> **********MENU************
 <br> 1. Add a student
 <br> 2. Search for a student
@@ -106,6 +110,7 @@ Note: Make use of functions to implement the menu options.
 <br> Enter the name of the student to save the details to a file:
 <br> rahul
 <br> Student details saved to file successfully
+
 <br> **********MENU************
 <br> 1. Add a student
 <br> 2. Search for a student
