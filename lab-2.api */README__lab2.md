@@ -42,3 +42,34 @@ The names in the array should be UNIQUE; no duplicate entries are expected!
 Provide necessary validations that the user enters only valid names that are not going to be repeated.
 Removing a name should not create empty space inside the array!
 Format your results properly!!
+
+*********************************************************************************************************************************
+#OUTPUT
+
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Exit
+Enter an option: 1
+Enter a name: arun
+Name added successfully.
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Exit
+Enter an option: 2
+Enter a name to search: arun
+Name found at index 0
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Exit
+Enter an option: 3
+Enter a name to remove: arun
+Name removed successfully.
+1. Enter a name
+2. Search for a name
+3. Remove a name
+4. Exit
+Enter an option: 4
+************************************************************************************************************************************
