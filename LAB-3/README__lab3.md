@@ -19,3 +19,43 @@ In the end, you will have Four functions inside your lab program class including
 (note the program can store up to 1024 students) One two-dimensional string array storing the details of up to 1024 students A menu-driven main
 method implementing the functions and functionality Plan your program with a flow chart before starting with coding. Since you are using functions, 
 plan what should be the returning values and how to implement them.
+
+**************************************************************************************************************************************
+#OUTPUT
+
+1. Add Student
+2. View Student Details
+3. Exit
+Enter your choice: 1
+Enter student name: arun
+Enter student register number: 22122013
+Enter student email: arun@gmail.com
+Enter student class: 2msc
+Enter student department: ds
+Student details added successfully!
+1. Add Student
+2. View Student Details
+3. Exit
+Enter your choice: 1
+Enter student name: rahul
+Enter student register number: 22122323
+Enter student email: aads@gmail.sd
+Enter student class: 1ms
+Enter student department: ds
+Student details added successfully!
+1. Add Student
+2. View Student Details
+3. Exit
+Enter your choice: 2
+Enter student name to view details: rahul
+Name: rahul
+Register Number: 22122323
+Email: aads@gmail.sd
+Class: 1ms
+Department: ds
+1. Add Student
+2. View Student Details
+3. Exit
+Enter your choice: 3
+
+*********************************************************************************************************************************88
