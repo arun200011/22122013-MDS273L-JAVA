@@ -94,4 +94,9 @@ Present your results in the appropriate format and write the results in a file.
 
 *****************************************************************************************************************************************
 
+#FLOWCHART
+
+![FLOWCHARTLAB7](https://github.com/arun200011/22122013-MDS273L-JAVA/assets/118739698/2d3b72e1-b9bc-4ae4-979a-017e10399b40)
+
+
 
