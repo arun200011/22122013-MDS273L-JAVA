@@ -158,6 +158,10 @@ Draw a flow chart for your program and write the pseudocode before starting the 
 <br> ****3.exit**************
 <br> 3
 *****************************************************************************************************************************************
+#FLOWCHART
+
+![Blank diagram (8)](https://github.com/arun200011/22122013-MDS273L-JAVA/assets/118739698/fc8b8605-00ee-4784-9545-b83620e96bac)
+
 
 
 
