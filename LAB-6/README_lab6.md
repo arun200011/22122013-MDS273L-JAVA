@@ -123,3 +123,7 @@ Note: Make use of functions to implement the menu options.
 <br> Exiting...
 
 *********************************************************************************************************************************
+#FLOWCHART
+
+![Blank diagram (7)](https://github.com/arun200011/22122013-MDS273L-JAVA/assets/118739698/a67f49f3-faad-42f7-9b0d-633bd002933e)
+
