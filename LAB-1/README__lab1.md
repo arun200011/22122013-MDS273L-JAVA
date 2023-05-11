@@ -22,7 +22,7 @@
 <br> kollam
 <br> MALE
 <br> facebook
-<br> details are name:arun age:22 gender:f region:south state:kerala city:kollam company:MALE
+<br> details are name:arun age:22 gender:f region:south state:kerala city:kollam company:facebook
 <br> The gender is MALE
 <br> The Employee is from the southern states of India; Preferable work location is in kerala
 <br> *********************************************************************************************************************************
