@@ -4,10 +4,9 @@ email:arun.reghunathan@msds.christuniversity.in
 
 
 
-Lab 4
-Create a new folder 'Lab 4', in your repository that will hold today's program, README.md.
+#Lab 4
+<br>
 
-Todays Program
 
 Write a JAVA Menu driven program that does the following:
 You can ONLY have the below variables as global variables
