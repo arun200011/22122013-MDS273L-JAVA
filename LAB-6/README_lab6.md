@@ -2,7 +2,8 @@ Name: Arun Reghunathan
 Regno: 22122013
 email: arun.reghunathan@msds.christuniversity.in
 
-
+#LAB6
+<br>
 Create a Student class, that will store the details of the Student, below mentioned are the attributes of a student.
 Reg. No.
 Name
