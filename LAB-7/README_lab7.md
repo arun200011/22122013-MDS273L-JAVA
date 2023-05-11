@@ -97,7 +97,8 @@ Present your results in the appropriate format and write the results in a file.
 
 #FLOWCHART
 
-![FLOWCHARTLAB7](https://github.com/arun200011/22122013-MDS273L-JAVA/assets/118739698/2d3b72e1-b9bc-4ae4-979a-017e10399b40)
+![Blank diagram (3)](https://github.com/arun200011/22122013-MDS273L-JAVA/assets/118739698/d694f15e-78a6-42da-a945-6cc224e9e0c8)
+
 
 
 
