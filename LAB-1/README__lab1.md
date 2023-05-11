@@ -26,5 +26,9 @@ Program Write a Java Program that will collect an employee's basic details
 <br> facebook
 <br> details are name:arun age:22 gender:f region:south state:kerala city:kollam company:facebook
 <br> The gender is MALE
-<br> The Employee is from the southern states of India; Preferable work location is in kerala
-<br> *********************************************************************************************************************************
+<br> The Employee is from the southern states of India; Preferable work location is in kerala *********************************************************************************************************************************
+#FLOWCHART
+
+![Blank diagram (6)](https://github.com/arun200011/22122013-MDS273L-JAVA/assets/118739698/a6d6728c-689b-42b2-b0cd-6213b9b3e018)
+
+
