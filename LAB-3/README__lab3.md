@@ -65,7 +65,8 @@ plan what should be the returning values and how to implement them.
 
 #FLOWCHART
 
-![FLOWCHARTLAB3](https://github.com/arun200011/22122013-MDS273L-JAVA/assets/118739698/51382b4a-a95a-4b3a-84c4-81639b1173f9)
+![Blank diagram](https://github.com/arun200011/22122013-MDS273L-JAVA/assets/118739698/a970f1bf-7fb7-4ba4-9087-39e6634e9b10)
+
 
 
 
