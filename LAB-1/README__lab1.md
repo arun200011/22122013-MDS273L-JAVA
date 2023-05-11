@@ -1,7 +1,9 @@
 <br> 22122013-MDS273L-JAVA
 <br> Name- Arun Reghunathan Regno-22122013 Email- arun.reghunathan@msds.christuniversity.in Class- 2MScDS-A
 <br> 
-<br> LAB1 Program Write a Java Program that will collect an employee's basic details
+<br> #LAB1
+<br>
+Program Write a Java Program that will collect an employee's basic details
 <br> that fall into different data types and displays them. After the details have been displayed,
 <br> with the help of conditional statements, check if the gender of the employee is 'm' or 'f'. 
 <br> It should print "MALE" for 'm' and "FEMALE" for 'f'. Assume that you can divide the states among India into 
