@@ -3,10 +3,7 @@
 <br> # reg no: 22122013
 <br> 
 <br> 
-<br> 
 <br> #Lab 2
-<br> 
-<br> 
 <br> 
 <br> Lab Exercise Question
 <br> You are supposed to create a menu-driven program that has the following menu options:
