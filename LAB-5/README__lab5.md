@@ -4,10 +4,8 @@ email:arun.reghunathan@msds.christuniversity.in
 
 
 
-Create a new folder in GitHub named 'Lab 5' for today's lab and solve the question.
-
-Question
-
+#LAB5
+<br>
 Below is an encryption/decryption standard in which the letters in the message will be replaced with the letters in the cypher row
 
 Plain
